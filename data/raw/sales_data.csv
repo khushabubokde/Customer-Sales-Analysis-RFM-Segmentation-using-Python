@@ -1,0 +1,327 @@
+order_id,customer_id,order_date,category,quantity,region,customer_segment,sales
+1000,1050,2019-01-05,Electronics,2,North,Regular,650.45
+1001,1102,2019-01-08,Home & Garden,5,South,Premium,890.30
+1002,1075,2019-01-12,Fashion,3,East,New,245.70
+1003,1089,2019-01-15,Electronics,1,West,Regular,289.50
+1004,1125,2019-01-18,Books,4,North,New,98.75
+1005,1067,2019-01-22,Sports,2,South,Premium,520.40
+1006,1098,2019-02-02,Home & Garden,6,East,Regular,745.80
+1007,1112,2019-02-05,Electronics,3,West,Premium,1050.25
+1008,1051,2019-02-10,Fashion,2,North,New,180.50
+1009,1145,2019-02-14,Books,5,South,Regular,125.30
+1010,1078,2019-02-18,Sports,1,East,Premium,320.70
+1011,1095,2019-02-22,Electronics,4,West,Regular,820.60
+1012,1120,2019-03-05,Home & Garden,3,North,New,425.50
+1013,1089,2019-03-08,Fashion,2,South,Premium,290.80
+1014,1135,2019-03-12,Books,6,East,Regular,155.40
+1015,1072,2019-03-16,Sports,3,West,New,480.90
+1016,1110,2019-03-20,Electronics,1,North,Premium,350.20
+1017,1058,2019-03-25,Home & Garden,4,South,Regular,580.30
+1018,1088,2019-04-02,Fashion,5,East,New,315.70
+1019,1165,2019-04-06,Books,2,West,Premium,75.50
+1020,1077,2019-04-10,Sports,2,North,Regular,410.80
+1021,1130,2019-04-14,Electronics,3,South,New,795.60
+1022,1068,2019-04-18,Home & Garden,1,East,Premium,285.40
+1023,1105,2019-04-22,Fashion,4,West,Regular,520.90
+1024,1142,2019-04-26,Books,3,North,New,118.20
+1025,1090,2019-05-02,Sports,2,South,Premium,475.30
+1026,1115,2019-05-06,Electronics,2,East,Regular,615.70
+1027,1065,2019-05-10,Home & Garden,5,West,New,845.50
+1028,1095,2019-05-14,Fashion,1,North,Premium,195.80
+1029,1140,2019-05-18,Books,4,South,Regular,142.60
+1030,1080,2019-05-22,Sports,3,East,New,565.40
+1031,1108,2019-06-02,Electronics,2,West,Premium,720.30
+1032,1070,2019-06-06,Home & Garden,3,North,Regular,505.90
+1033,1125,2019-06-10,Fashion,2,South,New,265.70
+1034,1155,2019-06-14,Books,5,East,Premium,185.30
+1035,1085,2019-06-18,Sports,1,West,Regular,295.80
+1036,1120,2019-06-22,Electronics,4,North,New,950.70
+1037,1075,2019-07-02,Home & Garden,2,South,Premium,425.50
+1038,1100,2019-07-06,Fashion,3,East,Regular,380.40
+1039,1162,2019-07-10,Books,1,West,New,45.70
+1040,1095,2019-07-14,Sports,2,North,Premium,425.60
+1041,1130,2019-07-18,Electronics,5,South,Regular,1250.80
+1042,1068,2019-07-22,Home & Garden,3,East,New,580.30
+1043,1110,2019-07-26,Fashion,2,West,Premium,315.90
+1044,1150,2019-08-02,Books,4,North,Regular,158.70
+1045,1089,2019-08-06,Sports,1,South,New,285.40
+1046,1105,2019-08-10,Electronics,3,East,Premium,875.20
+1047,1072,2019-08-14,Home & Garden,4,West,Regular,715.80
+1048,1135,2019-08-18,Fashion,2,North,New,245.60
+1049,1095,2019-08-22,Books,5,South,Premium,195.30
+1050,1115,2019-09-02,Sports,2,East,Regular,520.70
+1051,1060,2019-09-06,Electronics,1,West,New,380.50
+1052,1125,2019-09-10,Home & Garden,3,North,Premium,640.40
+1053,1085,2019-09-14,Fashion,4,South,Regular,485.80
+1054,1145,2019-09-18,Books,2,East,New,92.50
+1055,1108,2019-09-22,Sports,3,West,Premium,615.30
+1056,1078,2019-10-02,Electronics,2,North,Regular,695.70
+1057,1120,2019-10-06,Home & Garden,5,South,New,925.80
+1058,1075,2019-10-10,Fashion,1,East,Premium,225.40
+1059,1165,2019-10-14,Books,4,West,Regular,168.50
+1060,1090,2019-10-18,Sports,2,North,New,485.60
+1061,1100,2019-10-22,Electronics,3,South,Premium,850.30
+1062,1070,2019-11-02,Home & Garden,2,East,Regular,525.70
+1063,1135,2019-11-06,Fashion,4,West,New,395.80
+1064,1095,2019-11-10,Books,3,North,Premium,142.30
+1065,1115,2019-11-14,Sports,1,South,Regular,325.40
+1066,1060,2019-11-18,Electronics,5,East,New,1245.90
+1067,1150,2019-11-22,Home & Garden,2,West,Premium,485.60
+1068,1085,2019-12-02,Fashion,3,North,Regular,385.70
+1069,1130,2019-12-06,Books,4,South,New,158.40
+1070,1105,2019-12-10,Sports,2,East,Premium,520.80
+1071,1072,2020-01-05,Electronics,2,West,Regular,745.30
+1072,1165,2020-01-08,Home & Garden,3,North,New,515.70
+1073,1095,2020-01-12,Fashion,4,South,Premium,425.80
+1074,1125,2020-01-15,Books,1,East,Regular,55.40
+1075,1108,2020-01-18,Sports,2,West,New,465.50
+1076,1050,2020-02-02,Electronics,3,North,Premium,920.30
+1077,1140,2020-02-05,Home & Garden,5,South,Regular,845.70
+1078,1075,2020-02-10,Fashion,2,East,New,285.40
+1079,1165,2020-02-14,Books,4,West,Premium,175.60
+1080,1090,2020-02-18,Sports,1,North,Regular,310.80
+1081,1120,2020-03-05,Electronics,4,South,New,1050.50
+1082,1085,2020-03-08,Home & Garden,2,East,Premium,425.30
+1083,1100,2020-03-12,Fashion,3,West,Regular,365.70
+1084,1135,2020-03-16,Books,5,North,New,245.40
+1085,1072,2020-03-20,Sports,2,South,Premium,545.80
+1086,1160,2020-04-02,Electronics,1,East,Regular,385.60
+1087,1095,2020-04-06,Home & Garden,4,West,New,705.30
+1088,1115,2020-04-10,Fashion,2,North,Premium,315.70
+1089,1145,2020-04-14,Books,3,South,Regular,128.50
+1090,1068,2020-04-18,Sports,2,East,New,475.40
+1091,1110,2020-05-02,Electronics,3,West,Premium,850.80
+1092,1078,2020-05-06,Home & Garden,5,North,Regular,925.50
+1093,1125,2020-05-10,Fashion,1,South,New,195.70
+1094,1155,2020-05-14,Books,4,East,Premium,182.40
+1095,1085,2020-05-18,Sports,2,West,Regular,520.30
+1096,1100,2020-06-02,Electronics,2,North,New,715.60
+1097,1072,2020-06-06,Home & Garden,3,South,Premium,585.80
+1098,1140,2020-06-10,Fashion,4,East,Regular,445.70
+1099,1095,2020-06-14,Books,2,West,New,95.40
+1100,1165,2020-06-18,Sports,3,North,Premium,625.80
+1101,1108,2020-07-02,Electronics,1,South,Regular,415.30
+1102,1060,2020-07-06,Home & Garden,4,East,New,745.80
+1103,1120,2020-07-10,Fashion,3,West,Premium,380.50
+1104,1150,2020-07-14,Books,5,North,Regular,225.60
+1105,1085,2020-07-18,Sports,2,South,New,495.70
+1106,1115,2020-08-02,Electronics,2,East,Premium,820.40
+1107,1070,2020-08-06,Home & Garden,3,West,Regular,615.80
+1108,1135,2020-08-10,Fashion,4,North,New,425.30
+1109,1095,2020-08-14,Books,1,South,Premium,72.50
+1110,1080,2020-08-18,Sports,2,East,Regular,485.60
+1111,1160,2020-09-02,Electronics,5,West,New,1350.70
+1112,1105,2020-09-06,Home & Garden,2,North,Premium,525.40
+1113,1145,2020-09-10,Fashion,3,South,Regular,395.80
+1114,1072,2020-09-14,Books,4,East,New,162.50
+1115,1110,2020-09-18,Sports,1,West,Premium,315.80
+1116,1125,2020-10-02,Electronics,3,North,Regular,895.30
+1117,1068,2020-10-06,Home & Garden,5,South,New,875.60
+1118,1100,2020-10-10,Fashion,2,East,Premium,285.70
+1119,1155,2020-10-14,Books,4,West,Regular,178.40
+1120,1090,2020-10-18,Sports,2,North,New,520.80
+1121,1120,2020-11-02,Electronics,1,South,Premium,425.30
+1122,1075,2020-11-06,Home & Garden,3,East,Regular,645.80
+1123,1140,2020-11-10,Fashion,4,West,New,485.50
+1124,1095,2020-11-14,Books,2,North,Premium,118.60
+1125,1165,2020-11-18,Sports,3,South,Regular,625.70
+1126,1085,2020-12-02,Electronics,2,East,New,745.40
+1127,1115,2020-12-06,Home & Garden,4,West,Premium,715.80
+1128,1060,2020-12-10,Fashion,1,North,Regular,215.50
+1129,1130,2020-12-14,Books,5,South,New,245.30
+1130,1108,2020-12-18,Sports,2,East,Premium,545.80
+1131,1050,2021-01-05,Electronics,3,West,Regular,920.70
+1132,1160,2021-01-08,Home & Garden,2,North,New,485.30
+1133,1075,2021-01-12,Fashion,4,South,Premium,425.80
+1134,1145,2021-01-15,Books,1,East,Regular,62.40
+1135,1095,2021-01-18,Sports,2,West,New,475.60
+1136,1120,2021-02-02,Electronics,5,North,Premium,1250.80
+1137,1085,2021-02-05,Home & Garden,3,South,Regular,685.70
+1138,1100,2021-02-10,Fashion,2,East,New,295.40
+1139,1155,2021-02-14,Books,4,West,Premium,185.60
+1140,1072,2021-02-18,Sports,1,North,Regular,325.80
+1141,1110,2021-03-05,Electronics,2,South,New,745.30
+1142,1140,2021-03-08,Home & Garden,5,East,Premium,925.80
+1143,1075,2021-03-12,Fashion,3,West,Regular,385.70
+1144,1165,2021-03-16,Books,2,North,New,108.50
+1145,1090,2021-03-20,Sports,2,South,Premium,535.40
+1146,1125,2021-04-02,Electronics,1,East,Regular,415.60
+1147,1068,2021-04-06,Home & Garden,4,West,New,715.30
+1148,1115,2021-04-10,Fashion,3,North,Premium,385.80
+1149,1145,2021-04-14,Books,5,South,Regular,245.50
+1150,1085,2021-04-18,Sports,2,East,New,505.70
+1151,1100,2021-05-02,Electronics,2,West,Premium,825.40
+1152,1078,2021-05-06,Home & Garden,3,North,Regular,625.80
+1153,1120,2021-05-10,Fashion,4,South,New,445.50
+1154,1155,2021-05-14,Books,1,East,Premium,75.40
+1155,1072,2021-05-18,Sports,3,West,Regular,625.80
+1156,1160,2021-06-02,Electronics,2,North,New,745.30
+1157,1095,2021-06-06,Home & Garden,5,South,Premium,945.80
+1158,1140,2021-06-10,Fashion,2,East,Regular,315.70
+1159,1085,2021-06-14,Books,4,West,New,182.40
+1160,1165,2021-06-18,Sports,1,North,Premium,325.80
+1161,1050,2021-07-02,Electronics,3,South,Regular,895.30
+1162,1110,2021-07-06,Home & Garden,2,East,New,525.70
+1163,1125,2021-07-10,Fashion,4,West,Premium,485.80
+1164,1145,2021-07-14,Books,3,North,Regular,162.50
+1165,1090,2021-07-18,Sports,2,South,New,515.40
+1166,1108,2021-08-02,Electronics,5,East,Premium,1350.60
+1167,1075,2021-08-06,Home & Garden,1,West,Regular,325.80
+1168,1120,2021-08-10,Fashion,3,North,New,385.50
+1169,1165,2021-08-14,Books,4,South,Premium,195.40
+1170,1085,2021-08-18,Sports,2,East,Regular,495.80
+1171,1100,2021-09-02,Electronics,2,West,New,715.30
+1172,1155,2021-09-06,Home & Garden,4,North,Premium,745.80
+1173,1072,2021-09-10,Fashion,3,South,Regular,425.70
+1174,1140,2021-09-14,Books,1,East,New,58.40
+1175,1095,2021-09-18,Sports,2,West,Premium,545.80
+1176,1160,2021-10-02,Electronics,3,North,Regular,925.30
+1177,1078,2021-10-06,Home & Garden,5,South,New,895.70
+1178,1125,2021-10-10,Fashion,2,East,Premium,285.40
+1179,1145,2021-10-14,Books,4,West,Regular,185.60
+1180,1090,2021-10-18,Sports,1,North,New,315.80
+1181,1110,2021-11-02,Electronics,2,South,Premium,825.40
+1182,1085,2021-11-06,Home & Garden,3,East,Regular,685.80
+1183,1115,2021-11-10,Fashion,4,West,New,495.50
+1184,1155,2021-11-14,Books,2,North,Premium,138.60
+1185,1068,2021-11-18,Sports,3,South,Regular,625.70
+1186,1140,2021-12-02,Electronics,1,East,New,425.30
+1187,1100,2021-12-06,Home & Garden,5,West,Premium,925.80
+1188,1072,2021-12-10,Fashion,2,North,Regular,315.50
+1189,1165,2021-12-14,Books,4,South,New,182.40
+1190,1095,2021-12-18,Sports,2,East,Premium,545.80
+1191,1120,2022-01-05,Electronics,3,West,Regular,895.70
+1192,1160,2022-01-08,Home & Garden,2,North,New,525.30
+1193,1075,2022-01-12,Fashion,4,South,Premium,425.80
+1194,1145,2022-01-15,Books,1,East,Regular,72.40
+1195,1085,2022-01-18,Sports,2,West,New,485.60
+1196,1110,2022-02-02,Electronics,5,North,Premium,1250.30
+1197,1125,2022-02-05,Home & Garden,3,South,Regular,745.70
+1198,1140,2022-02-10,Fashion,2,East,New,295.40
+1199,1095,2022-02-14,Books,4,West,Premium,195.60
+1200,1068,2022-02-18,Sports,1,North,Regular,325.80
+1201,1155,2022-03-05,Electronics,2,South,New,745.30
+1202,1100,2022-03-08,Home & Garden,5,East,Premium,945.80
+1203,1072,2022-03-12,Fashion,3,West,Regular,385.70
+1204,1165,2022-03-16,Books,2,North,New,128.50
+1205,1090,2022-03-20,Sports,2,South,Premium,535.40
+1206,1120,2022-04-02,Electronics,1,East,Regular,415.60
+1207,1085,2022-04-06,Home & Garden,4,West,New,715.30
+1208,1115,2022-04-10,Fashion,3,North,Premium,385.80
+1209,1145,2022-04-14,Books,5,South,Regular,245.50
+1210,1078,2022-04-18,Sports,2,East,New,505.70
+1211,1160,2022-05-02,Electronics,2,West,Premium,825.40
+1212,1075,2022-05-06,Home & Garden,3,North,Regular,625.80
+1213,1140,2022-05-10,Fashion,4,South,New,445.50
+1214,1095,2022-05-14,Books,1,East,Premium,75.40
+1215,1110,2022-05-18,Sports,3,West,Regular,625.80
+1216,1125,2022-06-02,Electronics,2,North,New,745.30
+1217,1155,2022-06-06,Home & Garden,5,South,Premium,945.80
+1218,1068,2022-06-10,Fashion,2,East,Regular,315.70
+1219,1165,2022-06-14,Books,4,West,New,182.40
+1220,1085,2022-06-18,Sports,1,North,Premium,325.80
+1221,1100,2022-07-02,Electronics,3,South,Regular,895.30
+1222,1072,2022-07-06,Home & Garden,2,East,New,525.70
+1223,1145,2022-07-10,Fashion,4,West,Premium,485.80
+1224,1090,2022-07-14,Books,3,North,Regular,162.50
+1225,1120,2022-07-18,Sports,2,South,New,515.40
+1226,1078,2022-08-02,Electronics,5,East,Premium,1350.60
+1227,1160,2022-08-06,Home & Garden,1,West,Regular,325.80
+1228,1075,2022-08-10,Fashion,3,North,New,385.50
+1229,1140,2022-08-14,Books,4,South,Premium,195.40
+1230,1095,2022-08-18,Sports,2,East,Regular,495.80
+1231,1110,2022-09-02,Electronics,2,West,New,715.30
+1232,1125,2022-09-06,Home & Garden,4,North,Premium,745.80
+1233,1155,2022-09-10,Fashion,3,South,Regular,425.70
+1234,1068,2022-09-14,Books,1,East,New,58.40
+1235,1165,2022-09-18,Sports,2,West,Premium,545.80
+1236,1085,2022-10-02,Electronics,3,North,Regular,925.30
+1237,1100,2022-10-06,Home & Garden,5,South,New,895.70
+1238,1072,2022-10-10,Fashion,2,East,Premium,285.40
+1239,1145,2022-10-14,Books,4,West,Regular,185.60
+1240,1090,2022-10-18,Sports,1,North,New,315.80
+1241,1120,2022-11-02,Electronics,2,South,Premium,825.40
+1242,1115,2022-11-06,Home & Garden,3,East,Regular,685.80
+1243,1078,2022-11-10,Fashion,4,West,New,495.50
+1244,1155,2022-11-14,Books,2,North,Premium,138.60
+1245,1160,2022-11-18,Sports,3,South,Regular,625.70
+1246,1075,2022-12-02,Electronics,1,East,New,425.30
+1247,1140,2022-12-06,Home & Garden,5,West,Premium,925.80
+1248,1095,2022-12-10,Fashion,2,North,Regular,315.50
+1249,1110,2022-12-14,Books,4,South,New,182.40
+1250,1125,2022-12-18,Sports,2,East,Premium,545.80
+1251,1145,2023-01-05,Electronics,3,West,Regular,895.70
+1252,1085,2023-01-08,Home & Garden,2,North,New,525.30
+1253,1100,2023-01-12,Fashion,4,South,Premium,425.80
+1254,1072,2023-01-15,Books,1,East,Regular,72.40
+1255,1165,2023-01-18,Sports,2,West,New,485.60
+1256,1090,2023-02-02,Electronics,5,North,Premium,1250.30
+1257,1120,2023-02-05,Home & Garden,3,South,Regular,745.70
+1258,1078,2023-02-10,Fashion,2,East,New,295.40
+1259,1155,2023-02-14,Books,4,West,Premium,195.60
+1260,1068,2023-02-18,Sports,1,North,Regular,325.80
+1261,1110,2023-03-05,Electronics,2,South,New,745.30
+1262,1125,2023-03-08,Home & Garden,5,East,Premium,945.80
+1263,1160,2023-03-12,Fashion,3,West,Regular,385.70
+1264,1075,2023-03-16,Books,2,North,New,128.50
+1265,1140,2023-03-20,Sports,2,South,Premium,535.40
+1266,1095,2023-04-02,Electronics,1,East,Regular,415.60
+1267,1115,2023-04-06,Home & Garden,4,West,New,715.30
+1268,1145,2023-04-10,Fashion,3,North,Premium,385.80
+1269,1085,2023-04-14,Books,5,South,Regular,245.50
+1270,1100,2023-04-18,Sports,2,East,New,505.70
+1271,1072,2023-05-02,Electronics,2,West,Premium,825.40
+1272,1155,2023-05-06,Home & Garden,3,North,Regular,625.80
+1273,1165,2023-05-10,Fashion,4,South,New,445.50
+1274,1090,2023-05-14,Books,1,East,Premium,75.40
+1275,1120,2023-05-18,Sports,3,West,Regular,625.80
+1276,1078,2023-06-02,Electronics,2,North,New,745.30
+1277,1160,2023-06-06,Home & Garden,5,South,Premium,945.80
+1278,1075,2023-06-10,Fashion,2,East,Regular,315.70
+1279,1140,2023-06-14,Books,4,West,New,182.40
+1280,1095,2023-06-18,Sports,1,North,Premium,325.80
+1281,1110,2023-07-02,Electronics,3,South,Regular,895.30
+1282,1125,2023-07-06,Home & Garden,2,East,New,525.70
+1283,1145,2023-07-10,Fashion,4,West,Premium,485.80
+1284,1085,2023-07-14,Books,3,North,Regular,162.50
+1285,1100,2023-07-18,Sports,2,South,New,515.40
+1286,1155,2023-08-02,Electronics,5,East,Premium,1350.60
+1287,1068,2023-08-06,Home & Garden,1,West,Regular,325.80
+1288,1165,2023-08-10,Fashion,3,North,New,385.50
+1289,1090,2023-08-14,Books,4,South,Premium,195.40
+1290,1120,2023-08-18,Sports,2,East,Regular,495.80
+1291,1078,2023-09-02,Electronics,2,West,New,715.30
+1292,1160,2023-09-06,Home & Garden,4,North,Premium,745.80
+1293,1075,2023-09-10,Fashion,3,South,Regular,425.70
+1294,1140,2023-09-14,Books,1,East,New,58.40
+1295,1095,2023-09-18,Sports,2,West,Premium,545.80
+1296,1110,2023-10-02,Electronics,3,North,Regular,925.30
+1297,1125,2023-10-06,Home & Garden,5,South,New,895.70
+1298,1145,2023-10-10,Fashion,2,East,Premium,285.40
+1299,1085,2023-10-14,Books,4,West,Regular,185.60
+1300,1100,2023-10-18,Sports,1,North,New,315.80
+1301,1072,2023-11-02,Electronics,2,South,Premium,825.40
+1302,1155,2023-11-06,Home & Garden,3,East,Regular,685.80
+1303,1165,2023-11-10,Fashion,4,West,New,495.50
+1304,1090,2023-11-14,Books,2,North,Premium,138.60
+1305,1120,2023-11-18,Sports,3,South,Regular,625.70
+1306,1078,2023-12-02,Electronics,1,East,New,425.30
+1307,1160,2023-12-06,Home & Garden,5,West,Premium,925.80
+1308,1075,2023-12-10,Fashion,2,North,Regular,315.50
+1309,1140,2023-12-14,Books,4,South,New,182.40
+1310,1095,2023-12-18,Sports,2,East,Premium,545.80
+1311,1110,2024-01-05,Electronics,3,West,Regular,895.70
+1312,1125,2024-01-08,Home & Garden,2,North,New,525.30
+1313,1145,2024-01-12,Fashion,4,South,Premium,425.80
+1314,1085,2024-01-15,Books,1,East,Regular,72.40
+1315,1100,2024-01-18,Sports,2,West,New,485.60
+1316,1155,2024-02-02,Electronics,5,North,Premium,1250.30
+1317,1068,2024-02-05,Home & Garden,3,South,Regular,745.70
+1318,1165,2024-02-10,Fashion,2,East,New,295.40
+1319,1090,2024-02-14,Books,4,West,Premium,195.60
+1320,1120,2024-02-18,Sports,1,North,Regular,325.80
+1321,1078,2024-03-05,Electronics,2,South,New,745.30
+1322,1160,2024-03-08,Home & Garden,5,East,Premium,945.80
+1323,1075,2024-03-12,Fashion,3,West,Regular,385.70
+1324,1140,2024-03-16,Books,2,North,New,128.50
+1325,1095,2024-03-20,Sports,2,South,Premium,535.40
